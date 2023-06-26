@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+## Need a hand with data?
+I am an aspiring data scientist currently completing my Bootcamp at HyperionDev. Throughout the program, I have gained a solid foundation in data analysis, machine learning, and data visualization using Python. Now, I am excited to apply my skills in data to assist businesses in thriving and making informed decisions.
+- ✨ Let's join forces and unleash the true power of your data! ✨
+
+
+
+
+
+
 
 <!--
 **moniquebap/moniquebap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
