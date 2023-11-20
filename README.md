@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ## Need a hand with data?
-I am an aspiring data scientist currently completing my Bootcamp at HyperionDev. Throughout the program, I have gained a solid foundation in data analytics, machine learning, and data visualisation using Python. Now, I am excited to apply my skills in data to assist businesses in thriving and making informed decisions.
+I'm an Aspiring Data Analyst with a robust foundation in Python, specialising in Exploratory Data Analysis and Supervised Machine Learning. Proficient in leveraging Python libraries, I excel at data cleaning, analysis, and visualisation. I'm excited about applying my data skills to drive business success and empower informed decision-making.
 - ✨ Let's join forces and unleash the true power of your data! ✨
 
 
